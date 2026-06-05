@@ -1,7 +1,7 @@
 ---
 name: StellarX Philippines Submission
 about: Submission issue for StellarX Philippines judges
-title: "Team #loaferss - RegenLoop Market"
+title: "Team #iwanqnalangtalagabatakonagcode - RegenLoop Market"
 labels: "stellarx, submission"
 assignees: ""
 ---
@@ -30,7 +30,7 @@ https://github.com/iwanqnalangtalagabatakonagcode/regenloop-market
 - Contract IDs / asset issuers (if any): set after testnet deployment
 
 ## Team
-- loaferss - @iwanqnalangtalagabatakonagcode
+- iwanqnalangtalagabatakonagcode - @iwanqnalangtalagabatakonagcode
 
 ## Novelty Note
 Original StellarX Philippines work using disclosed open-source Stellar tooling, Soroban Rust SDK, Next.js, Prisma, and the provided fullstack guides.

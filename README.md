@@ -101,7 +101,7 @@ This is original StellarX Philippines hackathon work. It uses open-source Stella
 
 ## Team
 
-- loaferss - @iwanqnalangtalagabatakonagcode
+- iwanqnalangtalagabatakonagcode - @iwanqnalangtalagabatakonagcode
 
 ## License
 
