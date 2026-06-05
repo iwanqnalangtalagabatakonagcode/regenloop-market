@@ -1,0 +1,20 @@
+export const project = {
+  name: "RegenLoop Market",
+  oldName: "Waste Processing Cooperative Resource Recovery",
+  slug: "regenloop-market",
+  track: "Track 6 Open Innovation",
+  oneLine: "A resource-recovery marketplace that locks buyer funds and releases payment when verified waste batches are processed.",
+  users: "waste cooperatives, recyclers, LGUs, and material buyers",
+  approach: "Verified recovery batch marketplace",
+  integration: "Aquarius and Soroswap are documented as future liquidity discovery and asset conversion paths for material-backed reward flows.",
+  contractId: process.env.NEXT_PUBLIC_CONTRACT_ID || "CBJBNRIQZU7NXA5DDMZJBJJW2SKSHI3VGYA5RP7USOX4TI76RLJTM5ZZ",
+  rpcUrl: process.env.NEXT_PUBLIC_SOROBAN_RPC || "https://soroban-testnet.stellar.org",
+  horizonUrl: process.env.NEXT_PUBLIC_HORIZON_URL || "https://horizon-testnet.stellar.org",
+  network: "testnet",
+  functions: {
+    create: "open_recovery_batch",
+    fund: "fund_buyer_escrow",
+    attest: "verify_processing",
+    release: "release_recycler_payment",
+  },
+};
